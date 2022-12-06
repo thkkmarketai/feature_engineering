@@ -1,4 +1,3 @@
-
 ## **特徴量生成 / Feature Engineering**
 
 　thkkmarketai.github.io、及びプロジェクトの詳細については、以下のリンクをご参照ください。
